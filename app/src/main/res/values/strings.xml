@@ -3,14 +3,14 @@
     <string name="app_name">Monero Wallet</string>
 
     <string name="slogan">For Privacy</string>
-    <string name="wallet_prompt">When using Monero Wallet you must first create a new wallet or restore an existing one.</string>
+    <string name="wallet_prompt">To use the Equilibria Wallet, you must first create a new wallet or restore an existing one.</string>
     <string name="create_wallet">Create Wallet</string>
     <string name="recovery_wallet">Restore Wallet</string>
 
     <string name="coin_select">Select Asset</string>
 
-    <string name="generate_wallet_prompt_one">For the security and safety of your assets, please set a password used for authorization of your private key and transactions</string>
-    <string name="generate_wallet_prompt_two">WooKey will not save your password, nor will you be able to recover the password, please keep it secure</string>
+    <string name="generate_wallet_prompt_one">For the security and safety of your Equilibria, please set a password used for authorization of your private key and transactions</string>
+    <string name="generate_wallet_prompt_two">The Equilibria Wallet will not save your password, nor will you be able to recover the password, please keep it secure</string>
     <string name="wallet_name">Wallet Name</string>
     <string name="set_password">Set Password</string>
     <string name="confirm_password">Confirm Password</string>
@@ -79,8 +79,8 @@
     <string name="transfer_out">Out</string>
 
     <string name="balance_available">Available Balance</string>
-    <string name="received_address">Receive Address</string>
-    <string name="received_address_mark">Receive Address:</string>
+    <string name="received_address">Address</string>
+    <string name="received_address_mark">Address:</string>
     <string name="sent_address">Send Address</string>
     <string name="sent_address_mark">Send Address:</string>
     <string name="transfer_amount">Amount</string>
@@ -152,7 +152,7 @@
     <string name="transaction_date_invalid">Incorrect transaction date</string>
 
     <string name="version_placeholder">Version V %1$s</string>
-    <string name="about">The WooKey team develops secure, professional, reliable and simple digital asset wallet applications. We strive to protect private data and property of users. We measure success by the ease with which new and non-tech savvy users can get started using cryptocurrencies.</string>
+    <string name="about">The Equilibria Wallet is based off the WooKey wallet. <br/>The WooKey team develops secure, professional, reliable and simple digital asset wallet applications. They strive to protect the private data and property of users. They measure success by the ease with which new and non-tech savvy users can get started using cryptocurrencies.</string>
     <string name="agreement">Terms of Service</string>
 
     <string name="select_language">Select Language</string>
