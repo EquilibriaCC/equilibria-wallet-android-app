@@ -1,6 +1,6 @@
 # Equilibria Android App
 
-> Equilibria Android App enables users to securely store, send, receive XMR and monitor their balances.
+> Equilibria Android App enables users to securely store, send, receive XEQ and monitor their balances.
 
 > Equilibria Wallet is a fully open-source, decentralized and free app, first designed by WooKey, that provides the best possible     experience for users.
 
